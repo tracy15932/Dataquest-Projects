@@ -1,8 +1,7 @@
 # Dataquest-Projects
-This respository includes my course projects from Dataquest.
+This respository includes my course projects from Dataquest.I have obtained the Data Analyst certificate offered on the platform. Below is a reference of my learnning journey:
 
-Below is a reference of my learnning journey:
-
+# Contents
 ## Python Basics:
 - ### [Exploring Gun Death in the US](https://github.com/tracy15932/Dataquest-Projects/blob/master/US_Gun_Death_Project/Basics.ipynb)
 - *Utilized*: csv module, dictionary, list comprehension, basic python functions, loops, etc. 
@@ -29,6 +28,6 @@ Below is a reference of my learnning journey:
 - *Utilized*: pandas, barplot, data cleanning
 
 ## Connecting Python with Database
-### [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/tracy15932/Dataquest-Projects/blob/master/Analyzing%20CIA%20Factbook/Basics.ipynb)
+- ### [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/tracy15932/Dataquest-Projects/blob/master/Analyzing%20CIA%20Factbook/Basics.ipynb)
 - *Utilized*: sqlite3, quries, histogram
 
