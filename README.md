@@ -31,3 +31,6 @@ This respository includes my course projects from Dataquest.I have obtained the 
 - ### [Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/tracy15932/Dataquest-Projects/blob/master/Analyzing%20CIA%20Factbook/Basics.ipynb)
 - *Utilized*: sqlite3, quries, histogram
 
+## Statistics & Probability
+- ### [Investigatin Fandango's Movie Ratings](https://github.com/tracy15932/Dataquest-Projects/blob/master/Investigating_Movie_Ratings/Basics.ipynb) 
+- *Utilized*: data visualization, density plots, frequency table, summary of descriptive statistics
